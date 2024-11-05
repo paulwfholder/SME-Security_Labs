@@ -1,7 +1,5 @@
 ## **Incident Response and Forensics Lab: Investigating and Responding to a Security Breach**
 
-**Repository Name**: `incident-response-forensics`
-
 ### Lab Objective:
 In this lab, you’ll walk through the steps of an incident response (IR) process, including detecting and containing an incident, collecting and analyzing forensic data, and creating an incident report. You’ll learn the critical skills needed to investigate potential security breaches, analyze digital evidence, and apply IR procedures.
 
