@@ -152,4 +152,4 @@ In this section, you’ll simulate various types of suspicious behavior on the e
 
 ---
 
-This lab will provide practical knowledge of how EDR systems operate, how Sysmon can be leveraged as a lightweight EDR tool, and how to identify and analyze suspicious activities. Let me know when you’re ready for the next lab!
+This lab will provide practical knowledge of how EDR systems operate, how Sysmon can be leveraged as a lightweight EDR tool, and how to identify and analyze suspicious activities.
